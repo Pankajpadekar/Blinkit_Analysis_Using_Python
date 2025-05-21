@@ -19,7 +19,8 @@ This project presents an in-depth analysis of Blinkit's retail data using Python
 
 ## 🛠 Tools Used
 - Python  
-- Pandas  
+- Pandas
+- Numpy
 - Matplotlib  
 - Seaborn  
 - Jupyter Notebook  
